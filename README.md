@@ -30,13 +30,15 @@ Add the data-proofer-ignore attribute to any tag to ignore it from every check.
 ## About me
 <table>
   <tr>
-    <th>Фото</th>
-    <th>Ім’я</th>
-    <th>Роль</th>
+    <th>№</th>
+    <th>Name</th>
+    <th>Github</th>
+    <th>Role</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Siren1790"><img src="https://github.com/Siren1790.png" width="80"/></a></td>
-    <td><a href="https://github.com/Siren1790">Siren1790</a></td>
+    <td>1</td>
+    <td>Serhii Karpus</td>
+    <td><a href="https://github.com/Siren1790">Link</a></td>
     <td>Frontend Developer</td>
   </tr>
 </table>
