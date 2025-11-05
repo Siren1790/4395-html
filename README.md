@@ -28,17 +28,17 @@ Add the data-proofer-ignore attribute to any tag to ignore it from every check.
 <a href="https://notareallink" data-proofer-ignore>Not checked.</a>
 ```
 ## About me
-<table>
-  <tr>
-    <th>№</th>
-    <th>Name</th>
-    <th>Github</th>
-    <th>Role</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Serhii Karpus</td>
-    <td><a href="https://github.com/Siren1790">Link</a></td>
-    <td>Frontend Developer</td>
-  </tr>
+<table border="0" align="center">
+    <tr>
+        <th>№</th>
+        <th>Name</th>
+        <th>Github</th>
+        <th>Role</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Serhii Karpus</td>
+        <td><a href="https://github.com/Siren1790">Link</a></td>
+        <td>Frontend Developer</td>
+    </tr>
 </table>
