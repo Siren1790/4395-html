@@ -28,17 +28,65 @@ Add the data-proofer-ignore attribute to any tag to ignore it from every check.
 <a href="https://notareallink" data-proofer-ignore>Not checked.</a>
 ```
 ## About me
-<table border="0" align="center">
-    <tr>
-        <th>№</th>
-        <th>Name</th>
-        <th>Github</th>
-        <th>Role</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Serhii Karpus</td>
-        <td><a href="https://github.com/Siren1790">Link</a></td>
-        <td>Frontend Developer</td>
-    </tr>
+<table align="center">
+  <tr>
+    <th>№</th>
+    <th>Name</th>
+    <th>Github</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Serhii Karpus</td>
+    <td><a href="https://github.com/Siren1790">Link</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Maksym Poliakov</td>
+    <td><a href="https://github.com">GitHub</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Liashenko Sofiia</td>
+    <td><a href="https://github.com">GitHub</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Halaichuk Vladyslav</td>
+    <td><a href="https://github.com">GitHub</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Gerlib Andriy</td>
+    <td><a href="https://github.com">GitHub</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Levenets Yuriy</td>
+    <td><a href="https://github.com">GitHub</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Kuzhil Vitaliy</td>
+    <td><a href="https://github.com">GitHub</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Nychkalo Vira</td>
+    <td><a href="https://github.com">GitHub</a></td>
+    <td>Frontend Developer</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Pasichnyk Anna</td>
+    <td><a href="https://github.com">GitHub</a></td>
+    <td>Frontend Developer</td>
+  </tr>
 </table>
