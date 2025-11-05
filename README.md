@@ -27,3 +27,5 @@ Add the data-proofer-ignore attribute to any tag to ignore it from every check.
 ```html
 <a href="https://notareallink" data-proofer-ignore>Not checked.</a>
 ```
+## About me
+[![Siren1790 – GitHub](https://github.com/Siren1790.png)](https://github.com/Siren1790)
